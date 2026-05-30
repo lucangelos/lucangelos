@@ -52,7 +52,7 @@ I am currently strengthening my practical experience through daily studies, pers
 `HTML` `CSS` `JavaScript` `Node.js`
 
 🔗 **Repositório / Repository:**
-[(Adicione o link aqui)](https://totem-autoatendimento-etec.vercel.app)
+[(Totem de AutoAtendimento)](https://totem-autoatendimento-etec.vercel.app)
 
 ---
 
@@ -66,7 +66,7 @@ I am currently strengthening my practical experience through daily studies, pers
 `C++`
 
 🔗 **Repositório / Repository:**
-[(Adicione o link aqui)](https://github.com/lucangelos/CineControl)
+[(Sistema de Cinema)](https://github.com/lucangelos/CineControl)
 
 ---
 
@@ -98,7 +98,7 @@ My goal is to continuously grow as a developer, strengthen my technical skills, 
 [lucasangelossilva@gmail.com](mailto:lucasangelossilva@gmail.com)
 
 💼 **LinkedIn:**
-https://www.linkedin.com/in/lucas-%C3%A2ngelo/
+[(https://www.linkedin.com/in/lucas-%C3%A2ngelo/)](https://www.linkedin.com/in/lucas-%C3%A2ngelo/)
 
 🐙 **GitHub:**
-https://github.com/lucangelos
+[((https://github.com/lucangelos)](https://github.com/lucangelos)
